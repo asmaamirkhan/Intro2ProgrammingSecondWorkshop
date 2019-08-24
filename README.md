@@ -21,6 +21,7 @@ Well, our target was _developing problem solving skill_ and to be able to do tha
 ## Resources
 * [Source code of _Extended Game of Life_ 👩‍💻](https://github.com/asmaamirkhan/Intro2ProgrammingSecondWorkshop/blob/master/main.cpp)
 * [Slides we prepared for workshop 👩‍🏫](https://github.com/asmaamirkhan/Intro2ProgrammingSecondWorkshop/blob/master/Slides.pdf)
+* [Repo of the first workshop 🚩](https://github.com/asmaamirkhan/ObjectOrientedProgrammingWorkshop)
 
 ## Contact or Support
 Find me on [LinkedIn](https://www.linkedin.com/in/asmaa-mirkhan/) and feel free to mail me, [Asmaa](mailto:asmaamirkhan.am@gmail.com) :relaxed:
