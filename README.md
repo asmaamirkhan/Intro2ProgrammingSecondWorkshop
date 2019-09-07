@@ -10,7 +10,7 @@ My participation in this workshop gave me a good experience in technical content
 
 > [See the post on LinkedIn 🤗](https://www.linkedin.com/posts/asmaa-mirkhan_workshop-programming-university-activity-6535200059196346368-OzBG/) 
 
-## What have we did?
+## What have we done?
 We have added new features to **"Game of Life"** then we wrote its C++ code together in the workshop. 
 
 Technically, to be able to code the game we have used object oriented programming concepts :sparkles:, such as _classes_, _class members_. In the other hand we have used _dynamic matrices_ and then _file operations_ to save the generations. 
